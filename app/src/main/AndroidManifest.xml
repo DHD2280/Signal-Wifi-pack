@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
+        android:label="Icon Pack Collection"
+        android:supportsRtl="true">
+
+        <meta-data android:name="packauthor" android:value="John Doe" /> <!-- This is where you add your name -->
+
+        <activity android:name="iconpack1"
+            android:label="A Good Icon Pack"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- Optionally, you can have multiple icon packs. If not, remove this block -->
+        <activity android:name="iconpack2"
+            android:label="Another Good Icon Pack"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
