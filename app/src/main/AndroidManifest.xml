@@ -1,24 +1,478 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
     <application
-        android:label="Icon Pack Collection"
-        android:supportsRtl="true">
+        android:label="Signal and Wifi Pack"
+        android:supportsRtl="true"
+        tools:ignore="MissingApplicationIcon">
+        <meta-data
+            android:name="packauthor"
+            android:value="Luigi (DHD2280)" />
 
-        <meta-data android:name="packauthor" android:value="John Doe" /> <!-- This is where you add your name -->
-
-        <activity android:name="iconpack1"
-            android:label="A Good Icon Pack"
-            android:exported="true">
+        <activity
+            android:name="signal_aquarium_pack"
+            android:exported="true"
+            android:label="Aquarium Signal">
             <intent-filter>
                 <action android:name="sh.siava.pixelxpert.iconpack" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-
-        <!-- Optionally, you can have multiple icon packs. If not, remove this block -->
-        <activity android:name="iconpack2"
-            android:label="Another Good Icon Pack"
-            android:exported="true">
+        <activity
+            android:name="signal_aurora_pack"
+            android:exported="true"
+            android:label="Aurora Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_bars_pack"
+            android:exported="true"
+            android:label="Bars Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_butterfly_pack"
+            android:exported="true"
+            android:label="Butterfly Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_circle_pack"
+            android:exported="true"
+            android:label="Circle Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_daun_pack"
+            android:exported="true"
+            android:label="Daun Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_dec_pack"
+            android:exported="true"
+            android:label="Dec Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_deep_pack"
+            android:exported="true"
+            android:label="Deep Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_dora_pack"
+            android:exported="true"
+            android:label="Dora Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_equal_pack"
+            android:exported="true"
+            android:label="Equal Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_faint_pack"
+            android:exported="true"
+            android:label="Faint Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_fan_pack"
+            android:exported="true"
+            android:label="Fan Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_gradicon_pack"
+            android:exported="true"
+            android:label="Gradicon Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_huawei_pack"
+            android:exported="true"
+            android:label="Huawei Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_inside_pack"
+            android:exported="true"
+            android:label="Inside Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_lorn_pack"
+            android:exported="true"
+            android:label="Lorn Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_mini_pack"
+            android:exported="true"
+            android:label="Mini Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_nothing_pack"
+            android:exported="true"
+            android:label="Nothing Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_odin_pack"
+            android:exported="true"
+            android:label="Odin Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_pills_pack"
+            android:exported="true"
+            android:label="Pills Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_plumpy_pack"
+            android:exported="true"
+            android:label="Plumpy Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_rel_pack"
+            android:exported="true"
+            android:label="Rel Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_roman_pack"
+            android:exported="true"
+            android:label="Roman Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_round_pack"
+            android:exported="true"
+            android:label="Round Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_scroll_pack"
+            android:exported="true"
+            android:label="Scroll Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_sea_pack"
+            android:exported="true"
+            android:label="Sea Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_sneaky_pack"
+            android:exported="true"
+            android:label="Sneaky Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_stack_pack"
+            android:exported="true"
+            android:label="Stack Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_stroke_pack"
+            android:exported="true"
+            android:label="Stroke Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_wannui_pack"
+            android:exported="true"
+            android:label="Wannui Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_wavy_pack"
+            android:exported="true"
+            android:label="Wavy Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_windows_pack"
+            android:exported="true"
+            android:label="Windows Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_wing_pack"
+            android:exported="true"
+            android:label="Wing Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_xperia_pack"
+            android:exported="true"
+            android:label="Xperia Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_zigzag_pack"
+            android:exported="true"
+            android:label="Zigzag Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="signal_ios_pack"
+            android:exported="true"
+            android:label="Ios Signal">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_aurora_pack"
+            android:exported="true"
+            android:label="Aurora Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_bars_pack"
+            android:exported="true"
+            android:label="Bars Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_dora_pack"
+            android:exported="true"
+            android:label="Dora Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_faint_pack"
+            android:exported="true"
+            android:label="Faint Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_gradicon_pack"
+            android:exported="true"
+            android:label="Gradicon Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_inside_pack"
+            android:exported="true"
+            android:label="Inside Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_lorn_pack"
+            android:exported="true"
+            android:label="Lorn Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_nothing_pack"
+            android:exported="true"
+            android:label="Nothing Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_plumpy_pack"
+            android:exported="true"
+            android:label="Plumpy Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_round_pack"
+            android:exported="true"
+            android:label="Round Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_sneaky_pack"
+            android:exported="true"
+            android:label="Sneaky Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_stroke_pack"
+            android:exported="true"
+            android:label="Stroke Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_wavy_pack"
+            android:exported="true"
+            android:label="Wavy Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_weed_pack"
+            android:exported="true"
+            android:label="Weed Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_xperia_pack"
+            android:exported="true"
+            android:label="Xperia Wifi">
+            <intent-filter>
+                <action android:name="sh.siava.pixelxpert.iconpack" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="wifi_zigzag_pack"
+            android:exported="true"
+            android:label="Zigzag Wifi">
             <intent-filter>
                 <action android:name="sh.siava.pixelxpert.iconpack" />
                 <category android:name="android.intent.category.DEFAULT" />
