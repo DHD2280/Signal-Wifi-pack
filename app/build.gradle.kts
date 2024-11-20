@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "sh.siava.iconpacktemplate"
+    namespace = "it.dhd.signalwifipack"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "sh.siava.iconpacktemplate"
+        applicationId = "it.dhd.signalwifipack"
         minSdk = 33
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
@@ -18,14 +18,14 @@ android {
 
     buildTypes {
         release {
-            isMinifyEnabled = true
+            isMinifyEnabled = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
             }
         debug {
-            isMinifyEnabled = true
+            isMinifyEnabled = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
