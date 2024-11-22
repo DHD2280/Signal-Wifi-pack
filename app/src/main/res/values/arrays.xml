@@ -31,21 +31,21 @@
         <item>signal_aquarium_replacements</item>
     </string-array>
     <string-array name="signal_aurora_drawables">
-        <item>android:ic_1x_mobiledata</item>
-        <item>android:ic_3g_mobiledata</item>
-        <item>android:ic_4g_mobiledata</item>
-        <item>android:ic_4g_plus_mobiledata</item>
-        <item>android:ic_5g_e_mobiledata</item>
-        <item>android:ic_5g_mobiledata</item>
-        <item>android:ic_5g_plus_mobiledata</item>
-        <item>android:ic_5g_uc_mobiledata</item>
-        <item>android:ic_5g_uw_mobiledata</item>
-        <item>android:ic_e_mobiledata</item>
-        <item>android:ic_g_mobiledata</item>
-        <item>android:ic_h_mobiledata</item>
-        <item>android:ic_h_plus_mobiledata</item>
-        <item>android:ic_lte_mobiledata</item>
-        <item>android:ic_lte_plus_mobiledata</item>
+        <item>ic_1x_mobiledata</item>
+        <item>ic_3g_mobiledata</item>
+        <item>ic_4g_mobiledata</item>
+        <item>ic_4g_plus_mobiledata</item>
+        <item>ic_5g_e_mobiledata</item>
+        <item>ic_5g_mobiledata</item>
+        <item>ic_5g_plus_mobiledata</item>
+        <item>ic_5g_uc_mobiledata</item>
+        <item>ic_5g_uw_mobiledata</item>
+        <item>ic_e_mobiledata</item>
+        <item>ic_g_mobiledata</item>
+        <item>ic_h_mobiledata</item>
+        <item>ic_h_plus_mobiledata</item>
+        <item>ic_lte_mobiledata</item>
+        <item>ic_lte_plus_mobiledata</item>
         <item>android:ic_signal_cellular_0_4_bar</item>
         <item>android:ic_signal_cellular_0_5_bar</item>
         <item>android:ic_signal_cellular_1_4_bar</item>
@@ -331,21 +331,21 @@
         <item>signal_equal_replacements</item>
     </string-array>
     <string-array name="signal_faint_drawables">
-        <item>android:ic_1x_mobiledata</item>
-        <item>android:ic_3g_mobiledata</item>
-        <item>android:ic_4g_mobiledata</item>
-        <item>android:ic_4g_plus_mobiledata</item>
-        <item>android:ic_5g_e_mobiledata</item>
-        <item>android:ic_5g_mobiledata</item>
-        <item>android:ic_5g_plus_mobiledata</item>
-        <item>android:ic_5g_uc_mobiledata</item>
-        <item>android:ic_5g_uw_mobiledata</item>
-        <item>android:ic_e_mobiledata</item>
-        <item>android:ic_g_mobiledata</item>
-        <item>android:ic_h_mobiledata</item>
-        <item>android:ic_h_plus_mobiledata</item>
-        <item>android:ic_lte_mobiledata</item>
-        <item>android:ic_lte_plus_mobiledata</item>
+        <item>ic_1x_mobiledata</item>
+        <item>ic_3g_mobiledata</item>
+        <item>ic_4g_mobiledata</item>
+        <item>ic_4g_plus_mobiledata</item>
+        <item>ic_5g_e_mobiledata</item>
+        <item>ic_5g_mobiledata</item>
+        <item>ic_5g_plus_mobiledata</item>
+        <item>ic_5g_uc_mobiledata</item>
+        <item>ic_5g_uw_mobiledata</item>
+        <item>ic_e_mobiledata</item>
+        <item>ic_g_mobiledata</item>
+        <item>ic_h_mobiledata</item>
+        <item>ic_h_plus_mobiledata</item>
+        <item>ic_lte_mobiledata</item>
+        <item>ic_lte_plus_mobiledata</item>
         <item>android:ic_signal_cellular_0_4_bar</item>
         <item>android:ic_signal_cellular_0_5_bar</item>
         <item>android:ic_signal_cellular_1_4_bar</item>
@@ -421,21 +421,21 @@
         <item>signal_fan_replacements</item>
     </string-array>
     <string-array name="signal_gradicon_drawables">
-        <item>android:ic_1x_mobiledata</item>
-        <item>android:ic_3g_mobiledata</item>
-        <item>android:ic_4g_mobiledata</item>
-        <item>android:ic_4g_plus_mobiledata</item>
-        <item>android:ic_5g_e_mobiledata</item>
-        <item>android:ic_5g_mobiledata</item>
-        <item>android:ic_5g_plus_mobiledata</item>
-        <item>android:ic_5g_uc_mobiledata</item>
-        <item>android:ic_5g_uw_mobiledata</item>
-        <item>android:ic_e_mobiledata</item>
-        <item>android:ic_g_mobiledata</item>
-        <item>android:ic_h_mobiledata</item>
-        <item>android:ic_h_plus_mobiledata</item>
-        <item>android:ic_lte_mobiledata</item>
-        <item>android:ic_lte_plus_mobiledata</item>
+        <item>ic_1x_mobiledata</item>
+        <item>ic_3g_mobiledata</item>
+        <item>ic_4g_mobiledata</item>
+        <item>ic_4g_plus_mobiledata</item>
+        <item>ic_5g_e_mobiledata</item>
+        <item>ic_5g_mobiledata</item>
+        <item>ic_5g_plus_mobiledata</item>
+        <item>ic_5g_uc_mobiledata</item>
+        <item>ic_5g_uw_mobiledata</item>
+        <item>ic_e_mobiledata</item>
+        <item>ic_g_mobiledata</item>
+        <item>ic_h_mobiledata</item>
+        <item>ic_h_plus_mobiledata</item>
+        <item>ic_lte_mobiledata</item>
+        <item>ic_lte_plus_mobiledata</item>
         <item>android:ic_signal_cellular_0_4_bar</item>
         <item>android:ic_signal_cellular_0_5_bar</item>
         <item>android:ic_signal_cellular_1_4_bar</item>
@@ -541,21 +541,21 @@
         <item>signal_inside_replacements</item>
     </string-array>
     <string-array name="signal_lorn_drawables">
-        <item>android:ic_1x_mobiledata</item>
-        <item>android:ic_3g_mobiledata</item>
-        <item>android:ic_4g_mobiledata</item>
-        <item>android:ic_4g_plus_mobiledata</item>
-        <item>android:ic_5g_e_mobiledata</item>
-        <item>android:ic_5g_mobiledata</item>
-        <item>android:ic_5g_plus_mobiledata</item>
-        <item>android:ic_5g_uc_mobiledata</item>
-        <item>android:ic_5g_uw_mobiledata</item>
-        <item>android:ic_e_mobiledata</item>
-        <item>android:ic_g_mobiledata</item>
-        <item>android:ic_h_mobiledata</item>
-        <item>android:ic_h_plus_mobiledata</item>
-        <item>android:ic_lte_mobiledata</item>
-        <item>android:ic_lte_plus_mobiledata</item>
+        <item>ic_1x_mobiledata</item>
+        <item>ic_3g_mobiledata</item>
+        <item>ic_4g_mobiledata</item>
+        <item>ic_4g_plus_mobiledata</item>
+        <item>ic_5g_e_mobiledata</item>
+        <item>ic_5g_mobiledata</item>
+        <item>ic_5g_plus_mobiledata</item>
+        <item>ic_5g_uc_mobiledata</item>
+        <item>ic_5g_uw_mobiledata</item>
+        <item>ic_e_mobiledata</item>
+        <item>ic_g_mobiledata</item>
+        <item>ic_h_mobiledata</item>
+        <item>ic_h_plus_mobiledata</item>
+        <item>ic_lte_mobiledata</item>
+        <item>ic_lte_plus_mobiledata</item>
         <item>android:ic_signal_cellular_0_4_bar</item>
         <item>android:ic_signal_cellular_0_5_bar</item>
         <item>android:ic_signal_cellular_1_4_bar</item>
@@ -723,21 +723,21 @@
         <item>signal_pills_replacements</item>
     </string-array>
     <string-array name="signal_plumpy_drawables">
-        <item>android:ic_1x_mobiledata</item>
-        <item>android:ic_3g_mobiledata</item>
-        <item>android:ic_4g_mobiledata</item>
-        <item>android:ic_4g_plus_mobiledata</item>
-        <item>android:ic_5g_e_mobiledata</item>
-        <item>android:ic_5g_mobiledata</item>
-        <item>android:ic_5g_plus_mobiledata</item>
-        <item>android:ic_5g_uc_mobiledata</item>
-        <item>android:ic_5g_uw_mobiledata</item>
-        <item>android:ic_e_mobiledata</item>
-        <item>android:ic_g_mobiledata</item>
-        <item>android:ic_h_mobiledata</item>
-        <item>android:ic_h_plus_mobiledata</item>
-        <item>android:ic_lte_mobiledata</item>
-        <item>android:ic_lte_plus_mobiledata</item>
+        <item>ic_1x_mobiledata</item>
+        <item>ic_3g_mobiledata</item>
+        <item>ic_4g_mobiledata</item>
+        <item>ic_4g_plus_mobiledata</item>
+        <item>ic_5g_e_mobiledata</item>
+        <item>ic_5g_mobiledata</item>
+        <item>ic_5g_plus_mobiledata</item>
+        <item>ic_5g_uc_mobiledata</item>
+        <item>ic_5g_uw_mobiledata</item>
+        <item>ic_e_mobiledata</item>
+        <item>ic_g_mobiledata</item>
+        <item>ic_h_mobiledata</item>
+        <item>ic_h_plus_mobiledata</item>
+        <item>ic_lte_mobiledata</item>
+        <item>ic_lte_plus_mobiledata</item>
         <item>android:ic_signal_cellular_0_4_bar</item>
         <item>android:ic_signal_cellular_0_5_bar</item>
         <item>android:ic_signal_cellular_1_4_bar</item>
